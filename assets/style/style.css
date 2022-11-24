@@ -14,7 +14,7 @@ body{
     place-items: center;
 }
 
-.container{
+.slider{
     height: 62.5vmin;
     width: 100vmin;
     position: relative;
